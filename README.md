@@ -2,6 +2,17 @@
 
 TODO: this readme...
 
+42's project push_swap.
+
+Final grade: 125/100
+
+### Results:
+| list size | n operations |
+|-----      |-----         |
+| 5 | 9 (max) |
+| 100 | ~ 650 |
+| 500 | ~ 5050 |
+
 ### Usage:
 `make` will compile __push_swap__ and __checker programs__
 
